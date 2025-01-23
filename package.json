@@ -1,0 +1,21 @@
+{
+  "name": "ocean-mist",
+  "displayName": "Ocean Mist",
+  "description": "Dive into the Ocean Mist theme, where the soothing hues of turquoise transport you to a seaside escape. Perfect for long coding sessions with a touch of coastal charm.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ocean Mist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ocean Mist-color-theme.json"
+      }
+    ]
+  }
+}
