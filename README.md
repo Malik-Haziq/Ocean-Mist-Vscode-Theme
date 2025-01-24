@@ -53,9 +53,9 @@ Hi, I'm Malik Haziq, a passionate Frontend Engineer with expertise in creating v
 
 If you want to collaborate or just want to discuss cool projects, feel free to reach out:
 
-- **LinkedIn**: [https://www.linkedin.com/in/malik-haziq-b5233a231/]
-- **GitHub**: [https://github.com/Malik-Haziq]
-- **Email**: [mailto:malikhaziq153@gmail.com]
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/malik-haziq-b5233a231/)
+- **GitHub**: [Github](https://github.com/Malik-Haziq)
+- **Email**: [Email](malikhaziq153@gmail.com)
 
 ---
 
