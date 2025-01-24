@@ -1,4 +1,4 @@
-# My VS Code Theme
+# Ocean Mist
 
 Ocean Mist is modern VS Code theme inspired by the calming aqua color, designed for readability and focus.
 
