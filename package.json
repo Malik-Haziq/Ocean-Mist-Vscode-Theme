@@ -1,10 +1,16 @@
 {
   "name": "ocean-mist",
   "displayName": "Ocean Mist",
-  "description": "Dive into the Ocean Mist theme, where the soothing hues of turquoise transport you to a seaside escape. Perfect for long coding sessions with a touch of coastal charm.",
+  "description": "Ocean Mist is modern VS Code theme inspired by the calming aqua color, designed for readability and focus.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
+  },
+  "publisher": "MalikHaziq",
+  "icon": "assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Malik-Haziq/Ocean-Mist-Vscode-Theme.git"
   },
   "categories": [
     "Themes"
