@@ -2,7 +2,7 @@
   "name": "ocean-mist",
   "displayName": "Ocean Mist",
   "description": "Ocean Mist is modern VS Code theme inspired by the calming aqua color, designed for readability and focus.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
