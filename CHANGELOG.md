@@ -45,3 +45,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### updated
 
 - Made dark theme to default theme. Older theme is now (Ocean Mist Light)
+
+## [0.2.0] - 2/7/2025
+
+### Fixed
+
+- Fixed dark theme contras issues
