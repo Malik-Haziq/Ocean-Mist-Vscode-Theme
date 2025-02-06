@@ -35,3 +35,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Updated
 
 - update Changelog.md
+
+## [0.1.0] - 2/7/2025
+
+### Added
+
+- 🌙 Dark theme variant: "Ocean Mist Dark"!
+
+### updated
+
+- Made dark theme to default theme. Older theme is now (Ocean Mist Light)
