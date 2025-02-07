@@ -1779,7 +1779,7 @@
     "listFilterWidget.background": "#653723",
     "listFilterWidget.outline": "#4c5f62",
     "listFilterWidget.noMatchesOutline": "#653723",
-    "statusBar.foreground": "#ffffff",
+    "statusBar.foreground": "#6c7d80",
     "statusBar.background": "#152326",
     "statusBarItem.hoverBackground": "#193b41",
     "statusBar.border": "#152326",
